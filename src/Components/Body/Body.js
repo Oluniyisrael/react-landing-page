@@ -6,7 +6,7 @@ function Body() {
     <div id='mar'>
        <span id='sr'>Make remote work</span>
        <p>Get you stream in sync, no matter your location. Streamline processes, create team rituals, and watch productivity soar</p>
-       <div id='mar2'><a id='span' href='#'>Learn more</a></div>
+       <div id='mar2'><a id='span' href='#mar'>Learn more</a></div>
     </div>
   )
 }
